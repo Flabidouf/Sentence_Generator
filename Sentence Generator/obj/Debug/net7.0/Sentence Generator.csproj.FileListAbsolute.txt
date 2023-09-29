@@ -1,0 +1,15 @@
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/bin/Debug/net7.0/Sentence Generator
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/bin/Debug/net7.0/Sentence Generator.deps.json
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/bin/Debug/net7.0/Sentence Generator.runtimeconfig.json
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/bin/Debug/net7.0/Sentence Generator.dll
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/bin/Debug/net7.0/Sentence Generator.pdb
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.csproj.AssemblyReference.cache
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.AssemblyInfoInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.AssemblyInfo.cs
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.csproj.CoreCompileInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.dll
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/refint/Sentence Generator.dll
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.pdb
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/Sentence Generator.genruntimeconfig.cache
+/Users/mariuswaseige/Downloads/C#/Projects Rider/Sentence Generator/Sentence Generator/obj/Debug/net7.0/ref/Sentence Generator.dll
